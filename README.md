@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m Florent
-- 👀 I’m fullstack developer
+- 👀 I’m junior fullstack developer
 
 <!---
 flo-kichijoji/flo-kichijoji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
